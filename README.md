@@ -9,3 +9,7 @@ Repository Purpose
 This file is just a readme file.
 
 make a few changes
+
+## Gettomg started
+
+This is the getting started section
